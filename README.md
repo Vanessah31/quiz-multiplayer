@@ -179,7 +179,7 @@ Acesse em: `http://localhost/quiz/admin`
 
 ## 👩‍💻 Autora
 
-Desenvolvido com 💜 por **Vanessa Sousa, Verônica Alves e Tayssa **
+Desenvolvido com 💜 por **Vanessa Sousa**
 
 Disciplina: Linguagens Web 2
 
